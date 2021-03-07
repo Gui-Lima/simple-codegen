@@ -102,3 +102,13 @@ dist
 
 # TernJS port file
 .tern-port
+.vscode/**
+.vscode-test/**
+.yarnrc
+vsc-extension-quickstart.md
+**/tsconfig.json
+**/.eslintrc.json
+**/*.map
+**/*.ts
+
+out/*
